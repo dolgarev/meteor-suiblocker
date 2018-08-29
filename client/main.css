@@ -136,8 +136,6 @@ body.dimmable > .dimmer {
 ---------------*/
 
 body {
-    -webkit-filter: blur(0px) grayscale(0);
-    filter: blur(0px) grayscale(0);
     -webkit-transition: 800ms -webkit-filter ease;
     transition: 800ms -webkit-filter ease;
     transition: 800ms filter ease;
